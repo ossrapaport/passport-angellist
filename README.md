@@ -1,6 +1,6 @@
 # Passport-AngelList-Email_And_Message
 
-I forked this from Jared Hanson's [passport-angellist](https://github.com/jaredhanson/passport-angellist) Node module. This allows the application to access the authenticated user's email and messages. Everything else, from implementation to functionality, remains the same. 
+I forked this from Jared Hanson's [passport-angellist](https://github.com/jaredhanson/passport-angellist) Node module. This allows the application to access the authenticated user's email and messages. Everything else, from implementation to usage, remains the same. 
 
 ## Jared Hanson's Original Markdown
 
