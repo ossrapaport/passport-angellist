@@ -2,6 +2,8 @@
 
 I forked this from Jared Hanson's [passport-angellist](https://github.com/jaredhanson/passport-angellist) Node module. This allows the application to access the authenticated user's email and messages. Everything else, from implementation to functionality, remains the same. 
 
+## Jared Hanson's Original Markdown
+
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [AngelList](http://angel.co/) using the OAuth 2.0 API.
 
