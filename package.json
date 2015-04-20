@@ -1,25 +1,24 @@
 {
-  "name": "passport-angellist",
+  "name": "passport-angellist-e_and_m",
   "version": "0.1.2",
-  "description": "AngelList authentication strategy for Passport.",
+  "description": "AngelList authentication strategy for Passport with extra scope.",
   "keywords": ["passport", "angellist", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-angellist.git"
+    "url": "git://github.com/ossrapaport/passport-angellist-e_and_m.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-angellist/issues"
+    "url": "http://github.com/ossrapaport/passport-angellist-e_and_m.git/issues"
   },
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Original: Jared Hanson, Modifications: Owen Rapaport",
+    "email": "owenssrapaport@gmail.com"
   },
   "licenses": [ {
     "type": "MIT",
     "url": "http://www.opensource.org/licenses/MIT" 
   } ],
-  "main": "./lib/passport-angellist",
+  "main": "./lib/passport-angellist-e_and_m",
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-oauth": "0.1.x"
