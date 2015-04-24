@@ -15,7 +15,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-angellist
+    $ npm install passport-angellist-e_and_m
 
 ## Usage
 
